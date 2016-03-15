@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">WIN-BKF0K0VF0U2</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAf5/GYyDidE6lW7OxUSiI2QAAAAACAAAAAAAQZgAAAAEAACAAAAAW0pUYxJtZCpknFdk639eDqiB4iPHviwON5WZJ3sbrfwAAAAAOgAAAAAIAACAAAABLVE460tDuBz9mF2VwtoS4EKrBRCcyHqb57AzMVdvYcZAAAAAjPFgqaYTJMTrztG4/mQXmjEWI/raz6qvs1mKhL0uJOLxyYG6XalI10oWRcl29KhaCaofMzyHP1MGzkJtORddtbfHPnIVNT5Ya8z2TwWsnI7RRUNXtR8mO70nZbHlyrtCv5ld35QmuKva1eDVPNexRRuyrjvi1ZALDbXh/sFxZhjStdBk0lyXvKuy54EZXzQ5AAAAAJKe+AWI1jc3gbTs/7N3LRfGeugm6EHHauLaDbqW/tySdRPnRflvIkjY/1xJREmhUhMzNI5xsCsyi8u+8m4xxtQ==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAf5/GYyDidE6lW7OxUSiI2QAAAAACAAAAAAAQZgAAAAEAACAAAAAsQmAE4J3xzHldT/SLLFfRB0HVNESETZ4pnJZC4QFlygAAAAAOgAAAAAIAACAAAACrdjC+YUcXWuGketlfSNl183HGw7j1z/qQf42XBI3TDZAAAAB6WXXqOJ7cNi3vGtDrCO5cY/ofkIX9twL38r95tyRbJT/ZdhdUfo6FkALFUBrgqLwZGnShO0dR9XeRCuAMuC3mdXTTtTsmdtD+iYJBgN2zjM/gpwpAoKL9zBe2jHczaA4A3U7IINwHw0tfn0gKXyJdAAgvmAABNNQ5IC5mzPQLwnjyMPXbBNcGB5A8GVPLBQFAAAAABWk92lrELVh/OaaJOgMMk9D5LvKoUrGqTQIawapVbCt0KWRDneDpmHOdXXHhU57BkByz/tTo2bDD0Gg5qCd9jQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -42,10 +42,10 @@
                 <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">1</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">2</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{61383D0C-5A7B-489F-9C77-7E594901210C}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{BAFDBAA7-D75C-43D0-8742-1F719742D13F}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -95,21 +95,6 @@
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Value">true</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">3</SSIS:Property>
-                  </SSIS:Properties>
-                </SSIS:Parameter>
-                <SSIS:Parameter SSIS:Name="CM.Flat File Connection Manager.ConnectionString">
-                  <SSIS:Properties>
-                    <SSIS:Property SSIS:Name="ID">
-                    </SSIS:Property>
-                    <SSIS:Property SSIS:Name="CreationName">
-                    </SSIS:Property>
-                    <SSIS:Property SSIS:Name="Description">
-                    </SSIS:Property>
-                    <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Administrador\Documents\DatosLab2Parte2\SampleCurrencyData.txt</SSIS:Property>
-                    <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
                 <SSIS:Parameter SSIS:Name="CM.Flat File Connection Manager.DataRowsToSkip">
